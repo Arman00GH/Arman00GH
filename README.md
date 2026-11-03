@@ -11,9 +11,23 @@ Computer Engineering Student | Aspiring Backend Developer<br><br>Computer Engine
 
 # Current Focus
 -Writing maintainable and well-structured Python applications.<br><br>
--Learning database design, SQL, and query optimization.<br><br>
+-Improving relational database design and SQL proficiency.<br><br>
 -Exploring Backend Development and software architecture.<br><br>
 -Strengthening problem-solving skills through algorithms and programming challenges.<br><br>
+-Exploring API development, authentication, and backend security.
 
+# Education
+
+**Shahed University — Tehran, Iran**
+
+Bachelor's Degree in Computer Engineering
+Expected Graduation: 2029
+
+
+# Languages
+
+* Persian — Native
+* English — Upper-Intermediate (B2)
+* French — Beginner (A2)
 #
 "Build with purpose. Learn by doing. Improve continuously."
