@@ -1,80 +1,25 @@
-# Amirhossein(Arman) Ghorbani
 
-**Computer Engineering Student | Aspiring Backend Developer**
+# 💫 About Me:
+Computer Engineering Student | Aspiring Backend Developer<br><br>Computer Engineering student at Shahed University, interested in backend software development, database engineering, and building reliable software systems.<br><br>I focus on developing practical programming skills through hands-on projects, with particular attention to Python, object-oriented programming, relational databases, and software design.<br><br>Currently working toward becoming a backend developer with a strong foundation in computer science and software engineering.
 
-Computer Engineering student at **Shahed University**, interested in backend software development, database engineering, and building reliable software systems.
 
-I focus on developing practical programming skills through hands-on projects, with particular attention to Python, object-oriented programming, relational databases, and software design.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/MGNYPaVs) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arman_07_gh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/Amirhossein) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arman2007star@gmail.com) 
 
-Currently working toward becoming a backend developer with a strong foundation in computer science and software engineering.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Arman00GH&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Arman00GH&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Arman00GH&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arman00GH&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-### Technical Skills
-
-| Category              | Technologies & Concepts          |
-| --------------------- | -------------------------------- |
-| Programming Languages | Python, C, C++                   |
-| Databases             | MySQL, MongoDB                   |
-| Version Control       | Git, GitHub                      |
-| Development Tools     | Visual Studio Code               |
-| Data Management       | SQL, JSON, Database Integration  |
-
----
-
-### Featured Projects
-
-#### Trading Company System
-
-**Python · MySQL · MongoDB · OOP**
-
-A marketplace and trading management application developed to practice object-oriented programming and database-driven application development.
-
-Key components:
-
-* Role-based user management
-* Product and contract management
-* MySQL database integration
-* Persistent data management
-* Financial records and transaction logic
-* Product review functionality using MongoDB
-
-[View Repository →](https://github.com/Arman00GH/Trading-Company-System)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arman00GH&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Arman00GH&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### Current Focus
-
-* Developing backend development skills with Python.
-* Improving relational database design and SQL proficiency.
-* Studying data structures and algorithms.
-* Learning software architecture and maintainable application design.
-* Exploring API development, authentication, and backend security.
-* Improving software testing and debugging practices.
-
----
-
-### Education
-
-**Shahed University — Tehran, Iran**
-
-Bachelor's Degree in Computer Engineering
-Expected Graduation: 2029
-
----
-
-### Languages
-
-* Persian — Native
-* English — Upper-Intermediate (B2)
-* French — Beginner (A1)
-
----
-
-### Career Objective
-
-Interested in backend software engineering opportunities where I can apply my programming knowledge, contribute to practical projects, and continue developing as a software engineer.
-
----
-
-[GitHub Repositories](https://github.com/Arman00GH) · [GitHub Profile](https://github.com/Arman00GH)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
